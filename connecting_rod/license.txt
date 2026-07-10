@@ -1,0 +1,11 @@
+Model Information:
+* title:	CONNECTING ROD
+* source:	https://sketchfab.com/3d-models/connecting-rod-b1a527eea8b342b3a9271b727fbcb22b
+* author:	VR DESIGNER (https://sketchfab.com/vr.designer_09)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CONNECTING ROD" (https://sketchfab.com/3d-models/connecting-rod-b1a527eea8b342b3a9271b727fbcb22b) by VR DESIGNER (https://sketchfab.com/vr.designer_09) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	PISTON HEAD
+* source:	https://sketchfab.com/3d-models/piston-head-c184d4cb35354964b544dd37096ad3a5
+* author:	VR DESIGNER (https://sketchfab.com/vr.designer_09)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PISTON HEAD" (https://sketchfab.com/3d-models/piston-head-c184d4cb35354964b544dd37096ad3a5) by VR DESIGNER (https://sketchfab.com/vr.designer_09) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
