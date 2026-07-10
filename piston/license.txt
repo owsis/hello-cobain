@@ -1,0 +1,11 @@
+Model Information:
+* title:	PISTON
+* source:	https://sketchfab.com/3d-models/piston-f7878b113c284a359daf9b1e4c4a2515
+* author:	VR DESIGNER (https://sketchfab.com/vr.designer_09)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PISTON" (https://sketchfab.com/3d-models/piston-f7878b113c284a359daf9b1e4c4a2515) by VR DESIGNER (https://sketchfab.com/vr.designer_09) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
