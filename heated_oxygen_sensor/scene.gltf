@@ -1,0 +1,491 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3992,
+      "max": [
+        1.8250000476837158,
+        1.5625,
+        1.353164792060852
+      ],
+      "min": [
+        -4.0,
+        -1.5625,
+        -1.353164792060852
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 47904,
+      "componentType": 5126,
+      "count": 3992,
+      "max": [
+        1.0,
+        0.9951848983764648,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9951848983764648,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3992,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        -8.940696716308594e-08,
+        0.01000000536441803
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 9408,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 95808,
+      "componentType": 5126,
+      "count": 4483,
+      "max": [
+        -2.5753231048583984,
+        0.4999999701976776,
+        0.5
+      ],
+      "min": [
+        -3.9503233432769775,
+        -0.4999999701976776,
+        -0.5
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 149604,
+      "componentType": 5126,
+      "count": 4483,
+      "max": [
+        0.9951855540275574,
+        0.9999294281005859,
+        0.9951849579811096
+      ],
+      "min": [
+        -1.0,
+        -0.9999516010284424,
+        -0.9951849579811096
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 31936,
+      "componentType": 5126,
+      "count": 4483,
+      "max": [
+        1.0,
+        0.875
+      ],
+      "min": [
+        0.0,
+        0.6249999403953552
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 37632,
+      "componentType": 5125,
+      "count": 7290,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 203400,
+      "componentType": 5126,
+      "count": 832,
+      "max": [
+        -1.1499998569488525,
+        0.7499999403953552,
+        0.75
+      ],
+      "min": [
+        -2.5249998569488525,
+        -0.7499999403953552,
+        -0.7499999403953552
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 213384,
+      "componentType": 5126,
+      "count": 832,
+      "max": [
+        1.0,
+        0.9951847791671753,
+        0.9951848387718201
+      ],
+      "min": [
+        -1.0,
+        -0.9951847791671753,
+        -0.9951848387718201
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 67800,
+      "componentType": 5126,
+      "count": 832,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.010050901211798191
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 66792,
+      "componentType": 5125,
+      "count": 1332,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 223368,
+      "componentType": 5126,
+      "count": 688,
+      "max": [
+        3.8000001907348633,
+        0.8999999761581421,
+        0.9000001549720764
+      ],
+      "min": [
+        1.8000001907348633,
+        -0.8999999761581421,
+        -0.8999998569488525
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 231624,
+      "componentType": 5126,
+      "count": 688,
+      "max": [
+        1.0,
+        0.9951848387718201,
+        0.9951847195625305
+      ],
+      "min": [
+        -1.0,
+        -0.9951848387718201,
+        -0.9951848387718201
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 74456,
+      "componentType": 5126,
+      "count": 688,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.01000000536441803
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 72120,
+      "componentType": 5125,
+      "count": 1140,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Ryn.Works (https://sketchfab.com/reyn.ad)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/heated-oxygen-sensor-simplified-ef26e6a2124549188d7dac7ef64ae17b",
+      "title": "Heated Oxygen Sensor - Simplified"
+    },
+    "generator": "Sketchfab-16.8.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 76680,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 79960,
+      "byteOffset": 76680,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 239880,
+      "byteOffset": 156640,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 396520,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Rust",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.281204,
+          0.0495324,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9787104990013639
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Blacks",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Blacks.005",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "ECU_Gray",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.25,
+          0.25,
+          0.25,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9440983005625052
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Heated Oxygen_Rust_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Heated Oxygen_Blacks_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Heated Oxygen_Blacks.005_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Heated Oxygen_ECU_Gray_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "ac3dc74af5cf4efebc7564f8a6343402.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Heated Oxygen"
+    },
+    {
+      "mesh": 0,
+      "name": "Heated Oxygen_Rust_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Heated Oxygen_Blacks_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Heated Oxygen_Blacks.005_0"
+    },
+    {
+      "mesh": 3,
+      "name": "Heated Oxygen_ECU_Gray_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

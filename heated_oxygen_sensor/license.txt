@@ -1,0 +1,11 @@
+Model Information:
+* title:	Heated Oxygen Sensor - Simplified
+* source:	https://sketchfab.com/3d-models/heated-oxygen-sensor-simplified-ef26e6a2124549188d7dac7ef64ae17b
+* author:	Ryn.Works (https://sketchfab.com/reyn.ad)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Heated Oxygen Sensor - Simplified" (https://sketchfab.com/3d-models/heated-oxygen-sensor-simplified-ef26e6a2124549188d7dac7ef64ae17b) by Ryn.Works (https://sketchfab.com/reyn.ad) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
