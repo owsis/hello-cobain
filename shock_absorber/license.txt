@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shock Absorber
+* source:	https://sketchfab.com/3d-models/shock-absorber-31f26f9e1d5d41019575c24b2c2de446
+* author:	oren5107 (https://sketchfab.com/oren5107)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shock Absorber" (https://sketchfab.com/3d-models/shock-absorber-31f26f9e1d5d41019575c24b2c2de446) by oren5107 (https://sketchfab.com/oren5107) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
