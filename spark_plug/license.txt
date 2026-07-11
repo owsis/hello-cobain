@@ -1,8 +1,11 @@
 Model Information:
 * title:	Spark Plug
-* source:	https://sketchfab.com/3d-models/spark-plug-dcd81accfd58412ca276711335bc6a5d
-* author:	Unity Fan youtube channel (https://sketchfab.com/unityfan777)
+* source:	https://sketchfab.com/3d-models/spark-plug-3f6f16d07a214a32b6316bf9d57ba104
+* author:	valtabohm (https://sketchfab.com/valtabohm)
 
 Model License:
-* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
-* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spark Plug" (https://sketchfab.com/3d-models/spark-plug-3f6f16d07a214a32b6316bf9d57ba104) by valtabohm (https://sketchfab.com/valtabohm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
